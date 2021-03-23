@@ -7,6 +7,7 @@ public class Hello {
 	 System.out.println("hiiii");
 	 System.out.println("dddddd");
 	 System.out.println("adding 2nd newline");
+	 System.out.println("adding a new line");
 
  }
 }
